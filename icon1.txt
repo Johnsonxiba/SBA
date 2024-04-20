@@ -1,0 +1,1 @@
+2048 is a traditional , nondeterministic game on the square board.User can move the placement of the board by Up ,Down, Left and Right. When there is no empty space and movement of the board,the game ends.
